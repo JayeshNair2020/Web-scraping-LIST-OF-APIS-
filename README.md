@@ -1,5 +1,5 @@
 Questions for this assignment
-Based on what you have leaned in this course, web scrape the API lists on this page, and export your result into a CSV file.
+Web scrape the API lists on this page, and export your result into a CSV file.
 
 https://www.programmableweb.com/category/all/apis
 
